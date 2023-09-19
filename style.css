@@ -1,0 +1,10 @@
+h1, h2{
+    color: rgb(175, 7, 7);
+}
+
+p{
+    color: blue;
+    background-color: yellow;
+    border: 5px solid blueviolet;
+    border-radius: 15px;
+}
